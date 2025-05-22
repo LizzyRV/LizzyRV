@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
 I’m a microbiologist and clinical bioanalyst with 3 years of experience leading chemistry and microbiology departments in diagnostic laboratories. I’ve recently transitioned into the world of **data science** and **artificial intelligence**, Applying my scientific background to real-world data problems in health and industry.
 
@@ -20,8 +20,8 @@ I’m currently focused on mastering:
 
 ---
 
-## 🔍 Highlight Projects
-###[Udiddit SQL Refactoring](https://github.com/LizzyRV/udiddit_sql)
+## Highlight Projects
+### [Udiddit SQL Refactoring](https://github.com/LizzyRV/udiddit_sql)
 Refactored and normalized a flawed PostgreSQL schema for a fictional social platform.  
 **Skills:** Used DDL, DML, constraints, indexes, and data migration  
 ### [Deforestation SQL Project](https://github.com/LizzyRV/deforestation_sql_project)
@@ -38,18 +38,19 @@ Task management full-stack web app built during a development bootcamp.
 
 ---
 
-## 📚 Certifications & Ongoing Learning
+## Certifications & Ongoing Learning
 
 - **AI Programming with Python** – Udacity (2025)
 - **SQL for Data Analysis** – Udacity (2025)
 - **AI Explorer Bootcamp** – Universidad de Antioquia (2024)
 - **Certificate in Antimicrobial Resistance** – Universidad de Antioquia (2023)
 - **BSc in Microbiology & Bioanalysis** – Universidad de Antioquia (2021)
+- 
 - 🧬 Currently enrolled in a **Bioinformatics Certificate Program**
 
 ---
 
-## 🛠 Tech Skills
+## Tech Skills
 
 - **Languages:** Python, SQL, Bash
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, Transformers
@@ -58,7 +59,7 @@ Task management full-stack web app built during a development bootcamp.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **Spanish:** Native
 - **English:** B2+
