@@ -1,6 +1,6 @@
 # 👩‍🔬 Elizabeth Rojas Vargas
 
-🎓 **Microbiologist & Bioanalyst** | 🧠 Junior Data Scientist | 🇨🇴 Medellín, Colombia  
+🎓 **Junior Data Scientist** | **Bioinformatic** | **Microbiologist & Bioanalyst** | 🇨🇴 Medellín, Colombia  
 🔬 3 years in clinical labs · 🌱 Transitioning into AI & data science · 💡 Applying ML in health, biology, and industry.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elizabeth%20Rojas-blue?logo=linkedin)](https://www.linkedin.com/in/elizabethrojasvargas/)
