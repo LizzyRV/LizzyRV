@@ -1,7 +1,7 @@
 # 👩‍🔬 Elizabeth Rojas Vargas
 
 🎓 **Microbiologist & Bioanalyst** | 🧠 Junior Data Scientist | 🇨🇴 Medellín, Colombia  
-🔬 3 years in clinical labs · 🌱 Transitioning into AI & data science · 💡 Applying ML in health & environment
+🔬 3 years in clinical labs · 🌱 Transitioning into AI & data science · 💡 Applying ML in health and industry.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elizabeth%20Rojas-blue?logo=linkedin)](https://www.linkedin.com/in/elizabethrojasvargas/)
 [![GitHub](https://img.shields.io/badge/GitHub-LizzyRV-black?logo=github)](https://github.com/LizzyRV)
@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I’m a microbiologist and clinical bioanalyst with 3 years of experience leading chemistry and microbiology departments in diagnostic laboratories. I’ve recently transitioned into the world of **data science** and **artificial intelligence**, applying my scientific background to real-world data problems in health, environment, and sustainability.
+I’m a microbiologist and clinical bioanalyst with 3 years of experience leading chemistry and microbiology departments in diagnostic laboratories. I’ve recently transitioned into the world of **data science** and **artificial intelligence**, Applying my scientific background to real-world data problems in health and industry.
 
 I’m currently focused on mastering:
 - 🔢 Machine Learning & Deep Learning (with PyTorch & Transformers)
