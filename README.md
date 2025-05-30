@@ -21,6 +21,10 @@ I’m currently focused on mastering:
 ---
 
 ## Highlight Projects
+### [Flowers Image Classification (Deep Learning)](https://github.com/LizzyRV/flowers_classification_deep_learning)
+Built a flower species classifier using transfer learning (MobileNetV2) and PyTorch, as part of the Udacity AI Programming with Python Nanodegree.  
+**Skills:** PyTorch · Transfer Learning · Image Preprocessing · Model Evaluation · Jupyter Notebook · CLI Inference
+
 ### [Udiddit SQL Refactoring](https://github.com/LizzyRV/udiddit_sql)
 Refactored and normalized a flawed PostgreSQL schema for a fictional social platform.  
 **Skills:** Used DDL, DML, constraints, indexes, and data migration  
