@@ -1,6 +1,6 @@
 # 👩‍🔬 Elizabeth Rojas Vargas
 
-🎓 **Developer** | **AI & Bioinformatics** | **Healthcare Tech Enthusiast** |  🇨🇴 Medellín, Colombia  
+🎓 **Data Science and Artificial Intelligence** | **Developer** | **Tech for Science & Healthcare** |  🇨🇴 Medellín, Colombia  
  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elizabeth%20Rojas-blue?logo=linkedin)](https://www.linkedin.com/in/elizabethrojasvargas/)
