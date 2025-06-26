@@ -10,11 +10,11 @@
 
 ## About Me
 
-Developer with a background in science and experience in building applications. I currently work on solutions that integrate software and artificial intelligence, and I’m passionate about creating products that connect technology with high-impact fields such as healthcare, science, and innovation.
+Developer with an academic background in health sciences and experience in building applications. I currently design solutions that integrate software and artificial intelligence, and I’m passionate about working on products that connect technology with high-impact areas such as healthcare, science, and innovation.
 
-I have a solid foundation in programming and both relational and non-relational databases. I’m known for my ability to learn quickly, analytical thinking, and motivation to contribute to agile and innovative teams.
+I have a solid foundation in programming and experience working with both relational and non-relational databases. I stand out for my ability to learn quickly, analytical thinking, and motivation to contribute to agile and innovative teams.
 
-I also have training in artificial intelligence and data science, and I’m interested in continuing to grow within environments that combine technology with social purpose.
+Additionally, I have completed studies in artificial intelligence and data science, and I’m highly interested in continuing to grow within environments that combine technology with social purpose.
 
 I’m currently focused on mastering:
 - 🔢 Machine Learning & Deep Learning (with PyTorch & Transformers)
